@@ -1,0 +1,5 @@
+students_morning = 15 
+students_evening = 25
+print("Before swap: Morning batch=",students_morning,"Evening batch=", students_evening)
+students_morning, students_evening = students_evening, students_morning
+print("After swap: Morning batch=" ,students_morning, "Evening batch=", students_evening)
