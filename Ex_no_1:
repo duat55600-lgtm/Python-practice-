@@ -1,0 +1,4 @@
+instructor_name = "Alex"
+students = 30 
+course_name = "python"
+print (f "The instructor is {instructor _name}, there are {students} in the class, and {course _name} is the course)
