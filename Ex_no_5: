@@ -1,0 +1,2 @@
+Python, Java, AI = 25, 18, 21
+print("Python=", Python, ",Java=", Java, ",AI=", AI)
