@@ -1,0 +1,6 @@
+Teacher name = "Ahmad"
+Student name = "Amna"
+Grade = "A" 
+print(f"Teacher name is {Teacher name}")
+print(f"Student name is {Student name}")
+print(f"Grade is {Grade}")
