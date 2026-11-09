@@ -1,0 +1,5 @@
+math_marks = 100
+eng_marks = 98
+print("Before swap: Math marks=",math_marks,"English marks=",eng_marks)
+math_marks, eng_marks = eng_marks, math_marks
+print("After swap: Math marks=",math_marks,"English marks=",eng_marks)
