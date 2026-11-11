@@ -1,0 +1,6 @@
+age_str = "21"
+age_int = int(age_str)
+marks_int = 85
+marks_str = str(marks_int)
+print(f"Age as Integer: {age_int}, Type: {type(age_int)}")
+print(f"Marks as String: {marks_str}, Type: {type(marks_str)}")
