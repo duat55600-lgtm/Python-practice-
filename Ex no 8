@@ -1,0 +1,4 @@
+Subject = "biology"
+I_d = 20
+full_sentence = "My subject is" + Subject + "and my I_d is" + str(I_d)
+print(full_sentence)
