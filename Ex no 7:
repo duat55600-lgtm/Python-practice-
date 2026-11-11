@@ -1,0 +1,4 @@
+Grade = 'A'
+Name = "Eman"
+print(f"{Grade} is of type {type(Grade)}")
+print(f"{Name} is of type {type(Name)}")
