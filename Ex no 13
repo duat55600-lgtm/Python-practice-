@@ -1,0 +1,6 @@
+is_raining = True
+is_sunny = False
+raining_int = int(is_raining)
+sunny_int = int(is_sunny)
+print(f"Raining value: {raining_int}, Type: {type(raining_int)}")
+print(f"Sunny value: {sunny_int}, Type: {type(sunny_int)}")
