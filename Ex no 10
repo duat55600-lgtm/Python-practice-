@@ -1,0 +1,6 @@
+num_float = 8.25
+num_int = int(num_float)
+num_int2 = 67
+num_float2 = float(num_int2)
+print(f"Float to Int: {num_int}, Type: {type(num_int)}")
+print(f"Int to Float: {num_float2}, Type: {type(num_float2)}")
