@@ -1,0 +1,6 @@
+height = 5.75
+height_int = int(height)
+age = 18
+age_float = float(age)
+print(f"height : {height_int}, Type {type(height_int)}")
+print(f"age : {age_float}, Type {type(age_float)}")
