@@ -1,0 +1,9 @@
+
+fruits = ["Apple", "Mango", "Banana"]
+
+joined_fruits = " - ".join(fruits)
+
+split_fruits = joined_fruits.split(" - ")
+
+print(f"List to String: {joined_fruits}")
+print(f"String to List: {split_fruits}")
