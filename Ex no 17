@@ -1,0 +1,11 @@
+student_info = {
+    "name": "Ali",
+    "class": "BSCS",
+    "semester": 1
+}
+
+keys_list = list(student_info.keys())
+values_list = list(student_info.values())
+
+print(f"Keys: {keys_list}")
+print(f"Values: {values_list}")
