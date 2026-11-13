@@ -1,0 +1,9 @@
+
+word_list = ["Python", "is", "amazing"]
+
+joined_string = ", ".join(word_list)
+
+split_list = joined_string.split(", ")
+
+print(f"List to String: {joined_string}")
+print(f"String to List: {split_list}")
